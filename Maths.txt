@@ -1,0 +1,84 @@
+   -1-1+1 is positive integer or negative integer?
+positive
+negative
+alphabetic
+All
+B
+8 is...........
+Even number
+odd number
+rational number
+all of these
+A
+9+3+3+5 = 
+22
+34
+56
+none of these
+D
+..........is format of fraction?
+numerator/denumerator
+denumerator/numerator
+both A and B
+none of these
+A
+LCM of 2,64 ?
+2
+64
+128
+40
+B
+what is the value of x when p(x)= 2x+1+x?
+34
+76
+Question is wrong
+all
+C
+whats the value of PI?
+3.24
+3.14
+3.89
+None of these
+B
+7*3-21 = ?
+21
+0
+9
+8
+B
+9 < 89  ......
+True
+false
+Both
+None of these
+A
+3*4 = ....?
+21
+12
+34
+32
+B
+sum of first 5 number =
+23
+15
+6
+7
+B
+What is the HCF of 36 and 48?
+6
+12
+18
+24
+B
+What is the LCM of 15 and 20?
+15
+30
+60
+75
+C
+What is the HCF of 72 and 90?
+
+A) 6
+B) 9
+C) 18
+D)
